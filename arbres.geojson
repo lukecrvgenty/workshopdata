@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "arbres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "nature": "Arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698234972370271, 48.148965533719156 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698213001198287, 48.148918745870525 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698074489775329, 48.148962994152576 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698069469354451, 48.148906593634202 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.69745351531012, 48.148788154557188 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.697509595734795, 48.148768045433009 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.697514504358369, 48.148723165077413 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "abre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.697455782012149, 48.148713589703263 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.697445005488331, 48.148642523698143 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.697509484557976, 48.148666764526055 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698156656643906, 48.148935886878839 ] } },
+{ "type": "Feature", "properties": { "id": null, "nature": "arbre", "Taille": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.698155127427116, 48.14896871663526 ] } }
+]
+}
