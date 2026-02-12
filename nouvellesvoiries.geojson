@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "nouvellesvoiries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "type route": "desinsertion" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.699302978371015, 48.149973739840206 ], [ -1.698989056215509, 48.150884210465172 ], [ -1.698864083550884, 48.150878330584753 ], [ -1.699169473312397, 48.149993546063939 ], [ -1.699275950744711, 48.149913264144061 ], [ -1.699302978371015, 48.149973739840206 ] ] ] ] } }
+]
+}
